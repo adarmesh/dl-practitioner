@@ -2,3 +2,5 @@
 .venv
 uv.lock
 *.ipynb
+bears
+*.ipynb_checkpoints
