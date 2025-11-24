@@ -2,7 +2,7 @@ import gradio as gr
 from fastai.vision.all import *
 
 # Load the pre-trained model
-learn = Learner.load('export.pkl')
+learn = load_learner('export.pkl', cpu=True)
 
 def predict_image(img):
     """
