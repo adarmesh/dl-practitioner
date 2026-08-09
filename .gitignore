@@ -1,8 +1,12 @@
 .vscode
 .venv
 uv.lock
-*.ipynb
+#*.ipynb
 bears
 *.ipynb_checkpoints
 tmp
 */**/__pycache__
+
+# data
+*/**/flower_data
+*/**/data
