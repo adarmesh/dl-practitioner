@@ -10,6 +10,7 @@ tmp
 # data
 */**/flower_data
 */**/data
+*/**/cifar10
 */**/cifar_100
 */**/dataset
 
