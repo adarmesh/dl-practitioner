@@ -10,3 +10,5 @@ tmp
 # data
 */**/flower_data
 */**/data
+*/**/cifar_100
+
