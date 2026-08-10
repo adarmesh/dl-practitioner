@@ -6,11 +6,15 @@ requires-python = ">=3.11"
 dependencies = [
     "directory-tree>=1.0.0",
     "fastbook>=0.0.29",
+    "ipywidgets>=7.8.5",
     "jupyter>=1.1.1",
     "matplotlib==3.9.0",
     "numpy==2.3.2",
     "pillow==11.3.0",
+    "scikit-learn>=1.7.2",
     "torch==2.6.0",
     "torchmetrics>=1.9.0",
     "torchvision==0.21.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.57.1",
 ]
