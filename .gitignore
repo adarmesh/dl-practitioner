@@ -8,6 +8,7 @@ tmp
 */**/__pycache__
 
 # data
+*/**/misc
 */**/flower_data
 */**/data
 */**/cifar10
@@ -17,3 +18,5 @@ tmp
 */**/model.safetensors
 */**/glove*.txt
 */**/imdb_data
+*/**/fruit_and_vegetable_subset
+*/**/fruit_and_vegetable_subset.zip
