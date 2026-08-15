@@ -11,6 +11,7 @@ tmp
 */**/flower_data
 */**/data
 */**/cifar10
+*/**/cifar10_data
 */**/cifar_100
 */**/dataset
 */**/model.safetensors
