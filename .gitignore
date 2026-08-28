@@ -14,6 +14,7 @@ tmp
 */**/cifar10
 */**/cifar10_data
 */**/cifar_100
+*/**/cifar10_3class_imbalanced
 */**/dataset
 */**/model.safetensors
 */**/glove*.txt
