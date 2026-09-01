@@ -8,7 +8,7 @@ dependencies = [
     "directory-tree>=1.0.0",
     "fastbook>=0.0.29",
     "ipykernel>=7.1.0",
-    "ipywidgets>=7.8.5",
+    "ipywidgets>=8.0.0",
     "jupyter>=1.1.1",
     "lightning>=2.6.5",
     "matplotlib==3.9.0",
@@ -18,9 +18,11 @@ dependencies = [
     "onnx-graphsurgeon>=0.6.1",
     "onnx2tf>=1.28.8",
     "onnxruntime>=1.28.0",
+    "opencv-python-headless>=5.0.0.93",
     "optuna>=4.9.0",
     "pillow==11.3.0",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
     "sng4onnx>=2.0.1",
     "tensorflow>=2.21.0",
     "tf-keras>=2.21.0",
@@ -30,3 +32,9 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers>=4.57.1",
 ]
+
+[tool.uv]
+override-dependencies = [
+    "ipywidgets>=8.0.0",
+]
+
