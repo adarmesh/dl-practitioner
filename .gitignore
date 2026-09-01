@@ -24,3 +24,7 @@ tmp
 */**/oxford3pet_data
 */**/EMNIST_data
 */**/profiler_output
+*/**/Signature_Verification_v5_v11
+*/**/change_samples
+*/**/levir_cd_plus_simulated
+*/**/signature_samples
