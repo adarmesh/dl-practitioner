@@ -23,6 +23,7 @@ dependencies = [
     "opencv-python-headless>=5.0.0.93",
     "optuna>=4.9.0",
     "pillow==11.3.0",
+    "scikit-image>=0.26.0",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "sng4onnx>=2.0.1",
