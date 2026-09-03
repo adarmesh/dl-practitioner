@@ -28,3 +28,7 @@ tmp
 */**/change_samples
 */**/levir_cd_plus_simulated
 */**/signature_samples
+*/**/models
+
+# misc
+*/**/.DS_Store
