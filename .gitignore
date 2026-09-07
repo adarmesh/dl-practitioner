@@ -29,6 +29,8 @@ tmp
 */**/levir_cd_plus_simulated
 */**/signature_samples
 */**/models
+*/**/baseline_pretrained_model
+*/**/blip-vqa-base-local
 
 # misc
 */**/.DS_Store
